@@ -1,0 +1,4 @@
+https://www.scrapehero.com/scrape-yahoo-finance-stock-market-data/
+https://www.pythoncentral.io/python-beautiful-soup-example-yahoo-finance-scraper/
+https://developer.yahoo.com/python/python-rest.html?guccounter=1
+https://developer.yahoo.com/python/
